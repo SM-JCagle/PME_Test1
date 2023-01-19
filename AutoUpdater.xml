@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>3.0.0.0</version>
+  <url>ftps://www.shipeta.com/PME/Prod.zip</url>
+  <changelog></changelog>
+ <mandatory mode="2">true</mandatory>
+</item>
